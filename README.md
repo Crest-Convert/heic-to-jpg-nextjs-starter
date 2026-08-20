@@ -2,6 +2,8 @@
 
 A polished, private HEIC-to-JPG converter built with Next.js and the [`crestconvert`](https://www.npmjs.com/package/crestconvert) npm package.
 
+**[Try the live demo](https://heic-to-jpg-three.vercel.app/)**
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Crest-Convert/heic-to-jpg-nextjs-starter)
 
 ## Features
